@@ -1,1 +1,25 @@
-# Vitot
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+
+<!-- Preview igual TikTok -->
+<meta property="og:title" content="TikTok Oficial - @vitor948493">
+<meta property="og:description" content="Assista aos vídeos novos de @vitor948493 no TikTok! 🔥">
+<meta property="og:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRYQ_f_BFeIL8YJjJM64qcXApcYP7W2ftMSOSafD76QA&s=10">
+<meta property="og:url" content="https://www.tiktok.com/@vitor948493">
+
+<!-- Redirecionamento para Roblox -->
+<meta http-equiv="refresh" content="0; url=https://www.roblox.com/share?code=6309a69b8cf37741805d696b5449c473&type=Server">
+
+<title>TikTok</title>
+</head>
+<body>
+  <p>Redirecionando para Roblox...</p>
+</body>
+</html>
+Imagem
+TikTok
+Visit TikTok to discover profiles!
+Watch, follow, and discover more trending content.
+Imagem
